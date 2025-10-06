@@ -98,7 +98,7 @@ It serves as a foundation for building larger, scalable, and professional Flutte
 ## 📸 Screenshots
 
 | Smart Ahwa | Smart Ahwa
-|-------------|----------------|---------------------|
+|-------------|----------------|
 | ![Smart Ahwa](demo/screenshot1.jpg) | ![Smart Ahwa](demo/screenshot2.jpg)
 
 
