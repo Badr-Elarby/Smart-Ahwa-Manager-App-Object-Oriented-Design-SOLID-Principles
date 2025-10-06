@@ -92,6 +92,6 @@ This project was developed as a **learning tool** to help junior Flutter develop
 It serves as a foundation for building larger, scalable, and professional Flutter applications.
 
 
-![Smart Ahwa](demo/screen shot1.jpg)
-![Smart Ahwa](demo/screen shot2.jpg)
+![Smart Ahwa](demo/screenshot1.jpg)
+![Smart Ahwa](demo/screenshot2.jpg)
 
